@@ -1,0 +1,5 @@
+Stats about the data contained in democrat_users/ and republican_users/
+Number of User Files: 330
+Number of Posts: 8389
+UTC Oldest Posts: 1330466902.0 (Tuesday, February 28, 2012 4:08:22 PM GMT-06:00)
+UTC Most Recent Post: 1607225827.0 (Saturday, December 5, 2020 9:37:07 PM GMT-06:00)
